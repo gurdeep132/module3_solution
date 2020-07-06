@@ -7,11 +7,6 @@ h1 {
 	color: #000000;
 }
 
-body {
-	background-image: url("background.jpg");
-
-}
-
 p {
 	padding: 10px;
 	margin: 0;
@@ -36,33 +31,7 @@ section {
 	overflow: auto;
 }
 
-#chicken {
-	border: 1px solid black;
-	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
-	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-}
-
-#beef {
-	border: 1px solid black;
-	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
-	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-}
-
-#sushi {
+#chicken, #beef, #sushi {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
